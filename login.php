@@ -45,12 +45,10 @@ if(isset($_POST['submit'])){
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Secure Auth System</title>
 
-  <!-- core:css -->
-  <link rel="stylesheet" href="assets/vendors/core/core.css">
-  <!-- endinject -->
+
 
   <!-- Plugin css for this page -->
-  <link rel="stylesheet" href="assets/vendors/sweetalert2/sweetalert2.min.css">
+  <link rel="stylesheet" href="assets/sweetalert2/sweetalert2.min.css">
   <!-- End plugin css for this page -->
 
 
@@ -116,11 +114,11 @@ if(isset($_POST['submit'])){
   </div>
 
   <!-- core:js -->
-  <script src="assets/vendors/core/core.js"></script>
+  <script src="assets/core/core.js"></script>
   <!-- endinject -->
 
   <!-- Plugin js for this page -->
-  <script src="assets/vendors/sweetalert2/sweetalert2.min.js"></script>
+  <script src="assets/sweetalert2/sweetalert2.min.js"></script>
   <!-- End plugin js for this page -->
 
 
