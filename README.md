@@ -23,6 +23,6 @@ Database - MySQL
 
 5. Create a database with name secure_system_db
 
-6. Import goal-setter.sql file(given inside the zip package in SQL file folder)
+6. Import secure_system_db.sql file(given inside the zip package in SQL file folder)
 
-7. Run the script http://localhost/goal-setter (frontend)
+7. Run the script http://localhost/secureAuthSystem/login.php (frontend)
