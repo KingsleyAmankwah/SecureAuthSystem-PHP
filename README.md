@@ -11,13 +11,13 @@ Database - MySQL
 
 ```
 
-# How to run the Goal setter Project
+# How to run the Secure Auth System
 
 1. Download the zip file
 
-2. Extract the file and copy SecureAuthSystem folder
+2. Extract the file and rename it to SecureAuthSystem
 
-3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+3. Copy and Paste the renamed file inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
 4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
