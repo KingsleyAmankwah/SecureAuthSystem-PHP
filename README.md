@@ -15,7 +15,7 @@ Database - MySQL
 
 1. Download the zip file
 
-2. Extract the file and copy Goal-setter folder
+2. Extract the file and copy SecureAuthSystem folder
 
 3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
